@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author myrthe
- *
- */
-package Random;
